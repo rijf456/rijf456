@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Ridho (@rijf456)
+# 👋 Hello, I’m Ridho 
 
 🚀 I'm a Mechanical Engineering student who’s passionate about technology, especially learning Python, web development (HTML, CSS), and automation tools like Termux. I enjoy turning ideas into practical digital projects—one commit at a time.
 
