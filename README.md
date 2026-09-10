@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ridho-jamalludin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ridho.jamalludin@gmail.com">
+  <a href="mailto:ridhojamalludin123@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/rijf456">
@@ -132,7 +132,7 @@ I'm always interested in:
     <img src="https://img.shields.io/badge/Let's%20Connect-Contact%20Me-667eea?style=for-the-badge&logo=linkedin" alt="Connect"/>
   </a>
   <a href="mailto:ridho.jamalludin@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Email-ridho.jamalludin%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send%20Email-ridhojamalludin123%40gmail.com-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
 
